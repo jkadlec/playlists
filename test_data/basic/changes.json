@@ -1,0 +1,5 @@
+{
+    "actions" : [{"op": "ADD_SONG", "playlist_id": "1", "song_id": "2"},
+                 {"op": "ADD_PLAYLIST", "user_id": "1", "song_ids": ["1", "2"]},
+                 {"op": "DELETE_PLAYLIST", "playlist_id": "2"}]
+}
